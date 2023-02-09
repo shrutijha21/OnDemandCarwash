@@ -1,0 +1,31 @@
+/*Navbar*/
+
+.navbar-nav a{
+  font-size: 18px;
+  color:rgb(69, 44, 44);
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+
+/*Home*/
+.hero h5{
+  text-align: center;
+  background-color: rgb(230, 213, 213);
+  color:rgb(203, 27, 86);
+}
+
+.hero p{
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-align: center;
+  background-color: rgb(249, 234, 234);
+  color: rgb(146, 198, 23);
+}
+
+
+/*login*/
+p{
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  color: red;
+}

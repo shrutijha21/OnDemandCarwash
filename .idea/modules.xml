@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/onDemandCarWashSystem/admin-service-car/admin-service-car.iml" filepath="$PROJECT_DIR$/onDemandCarWashSystem/admin-service-car/admin-service-car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onDemandCarWashSystem/api-gateway-car/api-gateway-car.iml" filepath="$PROJECT_DIR$/onDemandCarWashSystem/api-gateway-car/api-gateway-car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onDemandCarWashSystem/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/onDemandCarWashSystem/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onDemandCarWashSystem/discovery-server-car/discovery.iml" filepath="$PROJECT_DIR$/onDemandCarWashSystem/discovery-server-car/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project 1.iml" filepath="$PROJECT_DIR$/.idea/project 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onDemandCarWashSystem/washer/washer-service.iml" filepath="$PROJECT_DIR$/onDemandCarWashSystem/washer/washer-service.iml" />
+    </modules>
+  </component>
+</project>
